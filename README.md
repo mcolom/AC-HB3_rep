@@ -17,6 +17,8 @@ The design considerations and open questions are so far the following:
 
 The final product should include the PCB with the components, a case, a 3-pin connector replacement, and a normal electric plug.
 
+Needless to say, any contributors very welcome!
+
 # Resources
 * A 3D model by Jonn Blanchard is available here: https://www.myminifactory.com/fr/object/3d-print-panasonic-fs-a1-sony-hb-f1-neo-geo-cd-psu-connector-196715
 * A similar project is available here at the MSX Village (French): https://www.msxvillage.fr/forum/topic.php?id=3345#m76611 However the it's only the circuit and it doesn't include the 3-pin connector.
