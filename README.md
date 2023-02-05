@@ -23,6 +23,7 @@ The final product should include the PCB with the components, a case, a 3-pin co
 * diagram.py: it draws a diagram of the 3-pin connector, with the sizes and distances which are believed to be correct.
 
 # Resources
+* The Sony HB-F1XD service manual, including the detailed schematics at the end: https://archive.org/details/sonyhbf1xdsm/page/n21/mode/2up
 * Two threads at MSX's MRC: https://www.msx.org/forum/msx-talk/hardware/sony-hb-f1-power-cord and  https://www.msx.org/forum/msx-talk/hardware/panasonic-fsaa51-power-adapter
 * A 3D model by Jonn Blanchard is available here: https://www.myminifactory.com/fr/object/3d-print-panasonic-fs-a1-sony-hb-f1-neo-geo-cd-psu-connector-196715
 * A similar project is available here at the MSX Village (French): https://www.msxvillage.fr/forum/topic.php?id=3345#m76611 However the it's only the circuit and it doesn't include the 3-pin connector.
