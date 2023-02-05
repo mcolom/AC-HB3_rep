@@ -11,7 +11,7 @@ The design considerations and open questions are so far the following:
 * Safety: some transformers come with the notice _"This product can expose you to chemicals including Di(2-ethylhexyl)phthalate (DEHP) which is known to the State of California to cause cancer"_. Obviously, these should be avoided. Question: do other modern transformers have DEHP or similar and we could be unaware of?
 * Safety: we should include a fuse
 * Quality: we should include a power regulator
-* Should we use a real center-tap transformer, or a modern switching one? Switching regulators might introduce some periodic noise that could affect the video signal. Is this significant?
+* Should we use a real center-tap transformer, or a modern switching one? Switching regulators might introduce some periodic noise (ripple voltage) that could affect the video signal. Is this significant?
 * How to build the connector? With a 3D printer? Any other alternatives?
 * Are the 3 pins in the connector a known model available today? Which one? Otherwise, any alternative?
 
@@ -23,5 +23,7 @@ The final product should include the PCB with the components, a case, a 3-pin co
 * diagram.py: it draws a diagram of the 3-pin connector, with the sizes and distances which are believed to be correct.
 
 # Resources
+* Two threads at MSX's MRC: https://www.msx.org/forum/msx-talk/hardware/sony-hb-f1-power-cord and  https://www.msx.org/forum/msx-talk/hardware/panasonic-fsaa51-power-adapter
 * A 3D model by Jonn Blanchard is available here: https://www.myminifactory.com/fr/object/3d-print-panasonic-fs-a1-sony-hb-f1-neo-geo-cd-psu-connector-196715
 * A similar project is available here at the MSX Village (French): https://www.msxvillage.fr/forum/topic.php?id=3345#m76611 However the it's only the circuit and it doesn't include the 3-pin connector.
+* Educational Youtube video by Ben Eater on the principle used by switching PSUs to increase the voltage at the output: https://www.youtube.com/watch?v=4alV5LzHLE4
