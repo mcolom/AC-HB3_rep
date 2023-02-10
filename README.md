@@ -32,3 +32,5 @@ The final product should include the PCB with the components, a case, a 3-pin co
 * A 3D model by Jonn Blanchard is available here: https://www.myminifactory.com/fr/object/3d-print-panasonic-fs-a1-sony-hb-f1-neo-geo-cd-psu-connector-196715
 * The RS's site lists many IEC connectors, but none of them is exactly the same as AC-HB3. https://uk.rs-online.com/web/c/connectors/mains-dc-power-connectors/iec-connectors/
 * The Schurter's site also lists many IEC connectors, but again none of them seems to correspond to ours: https://www.schurter.com/en/search?searchText=%20iec&searchCategory=products
+* Member "kifo" of the Conexión MSX Telegram group explains that for the pins inside the connector (using the model by Jonn Blanchard) Molex connectors may be used.
+
