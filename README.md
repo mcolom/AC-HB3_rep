@@ -25,6 +25,10 @@ The final product should include the PCB with the components, a case, a 3-pin co
 # Resources
 * The Sony HB-F1XD service manual, including the detailed schematics at the end: https://archive.org/details/sonyhbf1xdsm/page/n21/mode/2up
 * Two threads at MSX's MRC: https://www.msx.org/forum/msx-talk/hardware/sony-hb-f1-power-cord and  https://www.msx.org/forum/msx-talk/hardware/panasonic-fsaa51-power-adapter
-* A 3D model by Jonn Blanchard is available here: https://www.myminifactory.com/fr/object/3d-print-panasonic-fs-a1-sony-hb-f1-neo-geo-cd-psu-connector-196715
 * A similar project is available here at the MSX Village (French): https://www.msxvillage.fr/forum/topic.php?id=3345#m76611 However the it's only the circuit and it doesn't include the 3-pin connector.
 * Educational Youtube video by Ben Eater on the principle used by switching PSUs to increase the voltage at the output: https://www.youtube.com/watch?v=4alV5LzHLE4
+
+# Resources about the connector
+* A 3D model by Jonn Blanchard is available here: https://www.myminifactory.com/fr/object/3d-print-panasonic-fs-a1-sony-hb-f1-neo-geo-cd-psu-connector-196715
+* The RS's site lists many IEC connectors, but none of them is exactly the same as AC-HB3. https://uk.rs-online.com/web/c/connectors/mains-dc-power-connectors/iec-connectors/
+* The Schurter's site also lists many IEC connectors, but again none of them seems to correspond to ours: https://www.schurter.com/en/search?searchText=%20iec&searchCategory=products
