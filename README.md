@@ -33,4 +33,4 @@ The final product should include the PCB with the components, a case, a 3-pin co
 * The RS's site lists many IEC connectors, but none of them is exactly the same as AC-HB3. https://uk.rs-online.com/web/c/connectors/mains-dc-power-connectors/iec-connectors/
 * The Schurter's site also lists many IEC connectors, but again none of them seems to correspond to ours: https://www.schurter.com/en/search?searchText=%20iec&searchCategory=products
 * Member "kifo" of the Conexión MSX Telegram group explains that for the pins inside the connector (using the model by Jonn Blanchard) Molex connectors may be used.
-
+* In Digikey it's possible to find several connectors that might be a good fit: https://www.digikey.fr/fr/products/filter/contacts/multi-usage/336 Filtered to have only Molex: https://www.digikey.fr/fr/products/filter/contacts/multi-usage/336?s=N4IgjCBcpgnAHLKoDGUBmBDANgZwKYA0IA9lANogAMIAugL7EC0E0IakWeRpFIATAGY69UUA
